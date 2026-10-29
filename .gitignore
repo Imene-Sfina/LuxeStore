@@ -1,0 +1,30 @@
+# Frontend React
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# Backend Spring Boot
+backend/target/
+
+# Fichiers sensibles
+.env
+*.env
+application-local.properties
+
+# Fichiers temporaires
+*.log
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Generated files
+target/
+build/
+dist/
+
+# Uploaded images
+backend/uploads/
+
+# Temporary files
+*.log
+application-local.properties
